@@ -17,3 +17,4 @@ jobs:
         with:
           name: MD17-APK
           path: bin/*.apk
+        
